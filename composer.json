@@ -1,10 +1,10 @@
 {
-    "name": "wumeiyin/md5",
+    "name": "wumeiying/md5",
     "description": "md5 for laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "wu meiyin",
+            "name": "wu meiying",
             "email": "1529133756@qq.com"
         }
     ],
